@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/josefcode/Menu/static/css/main.964fdded.css",
+    "main.js": "/josefcode/Menu/static/js/main.3fd40986.js",
+    "index.html": "/josefcode/Menu/index.html",
+    "main.964fdded.css.map": "/josefcode/Menu/static/css/main.964fdded.css.map",
+    "main.3fd40986.js.map": "/josefcode/Menu/static/js/main.3fd40986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.3fd40986.js"
+  ]
+}
